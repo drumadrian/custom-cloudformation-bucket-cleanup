@@ -44,6 +44,7 @@ https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/crpg-ref-requestt
 	- This was assembled from "Scattered Facts" and is re-shared to [pay it forward](https://en.wikipedia.org/wiki/Pay_it_forward)
 - The Lambda [FunctionName](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-lambda-function.html#cfn-lambda-function-functionname) field is commented out to remind you that is it not required unless preferred
 - If you need this cloudformation template in JSON, use the Cloudformation template designer to convert the template from YAML to JSON
+- [Original Python Code](https://gist.github.com/seventhskye/0cc7b2804252975d36dca047ab7729e9)
 
 
 
